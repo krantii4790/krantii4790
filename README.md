@@ -85,9 +85,3 @@ Software Engineer & Java Full Stack Developer with a **B.Tech in AI & Data Scien
 ---
 
 
-## ✨ Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-
