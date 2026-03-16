@@ -13,7 +13,7 @@ Software Engineer & Java Full Stack Developer with a **B.Tech in AI & Data Scien
 
 ---
 
-## 💻 Technical Skills (Clickable)
+## 💻 Technical Skills
 
 ### 🟦 Programming Languages
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
