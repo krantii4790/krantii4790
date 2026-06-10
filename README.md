@@ -1,15 +1,20 @@
-# 👋 Hi, I'm Krantikumar
 
-🚀 Software Developer | Full-Stack Developer | Data & ML Enthusiast 
+## 👨‍💻 About Me
 
-📧 **Email:** [krantikumar4211@gmail.com](mailto:krantikumar4211@gmail.com)  
-🐙 **GitHub:** [krantii4790](https://github.com/krantii4790)
+```java
+public class Krantikumar extends Developer {
 
----
+    String[] roles    = { "Software Engineer", "Java Full Stack Developer", "ML Enthusiast" };
+    String   degree   = "B.Tech — Artificial Intelligence & Data Science";
+    String[] doing    = { "Building scalable REST APIs", "Exploring ML pipelines", "Open source contributions" };
+    String   motto    = "Clean code today, fewer bugs tomorrow.";
 
-## 🧑‍💻 Professional Summary
-
-Software Engineer & Java Full Stack Developer with a **B.Tech in AI & Data Science**. Skilled in Java, Spring Boot, React, JavaScript, and MySQL, with hands-on experience building RESTful, scalable, production-ready web applications.
+    @Override
+    public String introduce() {
+        return "Crafting production-ready web apps with Java, Spring Boot, React & beyond.";
+    }
+}
+```
 
 ---
 
@@ -84,4 +89,29 @@ Software Engineer & Java Full Stack Developer with a **B.Tech in AI & Data Scien
 
 ---
 
+## 💡 What I'm Working On
+ 
+```text
+🔭  Currently building   →  Java Spring Boot microservices & React dashboards
+🌱  Currently learning   →  MLOps pipelines, Kubernetes, and system design
+👯  Looking to collaborate on  →  Open source Java / Python / ML projects
+💬  Ask me about  →  Spring Boot, REST APIs, React, SQL optimisation
+⚡  Fun fact  →  I debug faster with coffee than with a debugger
+```
+ 
+---
+ 
+## 🤝 Let's Connect
 
+<br/>
+
+[![Gmail](https://img.shields.io/badge/krantikumar4211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krantikumar4211@gmail.com)
+[![GitHub](https://img.shields.io/badge/@krantii4790-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krantii4790)
+[![Profile Views](https://komarev.com/ghpvc/?username=krantii4790&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/krantii4790)
+
+<br/>
+
+<i>"First, solve the problem. Then, write the code."</i><br>
+— John Johnson
+
+</div>
